@@ -1,6 +1,6 @@
 # HR-Analysis
 Dashboard To analyze HR Attrition Using Power BI
-Data set from kaggel:
+Data set from kaggel: https://www.kaggle.com/datasets/patelprashant/employee-attrition
 The provided dataset, an HR analyst is trying to identify factors that affect employee retention and attrition in a company. 
 The dataset contains information about current and past employees and their employment status. 
 It may also include demographic information, job details, performance ratings, and job satisfaction ratings.
